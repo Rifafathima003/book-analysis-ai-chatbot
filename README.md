@@ -63,11 +63,11 @@ This project builds an end-to-end data pipeline:
 
 ### 📊 Rating Distribution
 
-![Rating Plot](assets/rating_plot.png)
+![Rating Plot](assets/rating_distribution.png)
 
 ### 💰 Price Distribution
 
-![Price Plot](assets/price_plot.png)
+![Price Plot](assets/price_distribution.png)
 
 ---
 
