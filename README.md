@@ -55,19 +55,19 @@ This project builds an end-to-end data pipeline:
 
 ### 🤖 Chatbot Example
 
-![Chatbot Output](assets/chatbot.png)
+![Chatbot Output](assests/chatbot.png)
 
 ### 🤖 ai_Chatbot Example
 
-![ai_Chatbot Output](assets/ai_chatbot.png)
+![ai_Chatbot Output](assests/ai_chatbot.png)
 
 ### 📊 Rating Distribution
 
-![Rating Plot](assets/rating_distribution.png)
+![Rating Plot](assests/rating_distribution.png)
 
 ### 💰 Price Distribution
 
-![Price Plot](assets/price_distribution.png)
+![Price Plot](assests/price_distribution.png)
 
 ---
 
